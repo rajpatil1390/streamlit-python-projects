@@ -1,0 +1,13 @@
+# ─────────────────────────────────────────────────────────────────
+# Raj Patil AI Studio — Requirements
+# Install: pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────
+
+# Core framework
+streamlit>=1.35.0
+
+# Ollama Python client (local LLM inference)
+ollama>=0.2.1
+
+# Standard library — no extra install needed:
+#   datetime, time, json  (included in Python ≥ 3.10)
